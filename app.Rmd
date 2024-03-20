@@ -6,6 +6,7 @@ output: html_document
 ```{r setup, include=FALSE}
 library(shiny)
 library(dplyr)
+library(tidyverse)
 ```
 
 ## R Markdown
