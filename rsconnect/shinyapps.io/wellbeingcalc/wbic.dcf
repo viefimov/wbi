@@ -1,0 +1,12 @@
+name: wbic
+title: wbic
+username: wellbeingcalc
+account: wellbeingcalc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11555442
+bundleId: 8401407
+url: https://wellbeingcalc.shinyapps.io/wbic/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
